@@ -1,2 +1,2 @@
 # TicTacToe
-A simple TicTacToe game made in Android Studio
+Tic-tac-toe, noughts and crosses, or Xs and Os, X and O, who take turns marking the spaces in a 3×3 grid. ... The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
